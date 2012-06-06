@@ -1,5 +1,4 @@
 Sample Projects/
-
 ipch/
 
 *.aux
@@ -45,3 +44,8 @@ obj/
 
 #Project files
 [Bb]uild/
+
+#Resharper
+*.resharper
+_ReSharper*/
+_ReSharper.*
