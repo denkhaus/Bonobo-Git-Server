@@ -45,3 +45,5 @@ obj/
 
 #Project files
 [Bb]uild/
+#Resharper Files
+_[Rr]e[Ss]harper.*
